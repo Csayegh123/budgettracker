@@ -1,5 +1,6 @@
 # 19_PWA
 
+https://fathomless-mesa-34208.herokuapp.com/
 
 ## Description
 
@@ -29,7 +30,7 @@ When brought back online:
 ## Deployment
 
 The app can be found at this link:
-https://radiant-shelf-24566.herokuapp.com/
+https://fathomless-mesa-34208.herokuapp.com/
 
 ## User Story
 
